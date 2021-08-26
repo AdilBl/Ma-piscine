@@ -1,0 +1,8 @@
+Credentials cache: API:939D70AD-3AD9-47D1-956E-E692638BF1CD
+        Principal: abelache@42LYON.FR
+
+  Issued                Expires             Flags    Principal
+Aug  2 12:56:02 2021  Aug  3 12:56:02 2021  FPIA   krbtgt/42LYON.FR@42LYON.FR
+z3r6p1% klist
+Credentials cache: API:939D70AD-3AD9-47D1-956E-E692638BF1CD
+        Principal: abelache@42LYON.FR

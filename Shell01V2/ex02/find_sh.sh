@@ -1,0 +1,1 @@
+cfind  . -type f -name "*.sh" | sed "s/\.sh//g" | sed "s#.*/##"
